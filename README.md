@@ -1,6 +1,15 @@
-# DHT22 IoT Project with Wireless Communication Analysis
+# 🌐 DHT22 IoT Project with Wireless Communication Code Examples
 
-The **DHT22** is a popular temperature and humidity sensor widely used in IoT projects for its accuracy and ease of integration. This document provides a complete implementation for various wireless communication technologies and an analysis of their capabilities.  
+The **DHT22** is a temperature and humidity sensor widely used in IoT projects due to its simplicity and reliability. This repository provides **implementation examples** for multiple wireless communication technologies, along with a comparison of their **strengths and weaknesses** for IoT use cases.
+
+---
+
+## 🚀 About This Project
+
+This project helps developers understand:
+- 📝 How to write code for DHT22 data transmission over different wireless protocols.
+- 📡 The trade-offs between BLE, Zigbee, LoRa, Sigfox, NB-IoT, GSM, and 4G/5G.
+- 🔒 Security and performance considerations for each technology.
 
 ---
 
@@ -39,9 +48,7 @@ This project demonstrates how the DHT22 sensor can be integrated with multiple w
 
 - 📦 DHT22 sensor setup guide  
 - 🌐 Wireless communication configuration (BLE, Zigbee, LoRa, etc.)  
-- 📊 Data visualization with Grafana and SCADA systems  
 - ⚡ Power optimization for IoT nodes  
-- 📡 Big data flow management with Kafka, Spark, and Airflow  
 
 ---
 
