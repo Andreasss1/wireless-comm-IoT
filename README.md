@@ -45,3 +45,15 @@ This project demonstrates how the DHT22 sensor can be integrated with multiple w
 
 ---
 
+<div align="center">
+
+## 📬 Need a Similar Project? Let's Collaborate!
+If you need a **custom IoT project** for **smart home, agriculture, industrial monitoring**, or other use cases,  
+I’m ready to assist you!  
+
+📧 **Reach out at:**  
+### andreas.sebayang9999@gmail.com  
+
+Let’s create something amazing together! 🚀
+
+</div>
